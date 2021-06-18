@@ -1,18 +1,19 @@
 package com.example;
 /**
  * Classe exemple pour javadoc
- * @author bcaylux
+ * @author MAthilda
  * @version 1.0 
+ * @since 18/0682021
  */
 public class Greeter {
 /**
-*constructeur vide
+* Creates an empty Greeter
 */
   public Greeter() {
 
   }
 /** 
-*Méthode qui renvoit "Hello babacar" 
+*Methode qui renvoit "Hello babacar" 
 *@param someone une personne 
 */
   public final String greet(final String someone) {
