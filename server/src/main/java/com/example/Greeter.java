@@ -1,4 +1,3 @@
-package-info.java file;
 package com.example;
 /**.
  * Classe exemple pour javadoc
